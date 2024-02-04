@@ -1,0 +1,38 @@
+@media (max-width: 790px){
+    .cartao{
+        justify-content: center;
+        flex-direction: column;
+        padding: 390px 150px;
+        max-height: 100px;
+    }
+
+    .titulo{
+        display: flex;
+        font-size: 20px;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        min-width: 280px;
+    }
+
+    .bsb{
+        font-size: 16px;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .descricao{
+        font-size: 15px;
+        text-align: center;
+        padding: 0px 30px;
+    }
+
+    .sites .btn{
+        padding: 20px 70px;
+    }
+
+    .sites .btn-2{
+        font-size: 15px;
+        padding: 20px;
+    }
+}
